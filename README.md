@@ -7,7 +7,7 @@ by [Kaiwen Duan](https://scholar.google.com/citations?hl=zh-CN&user=TFHRaZUAAAAJ
 **The code to train and evaluate the proposed PyCenterNet is available here. For more technical details, please refer to our [arXiv paper]().**
 
 <div align=center>
-<img src=https://github.com/Duankaiwen/PyCenterNet/blob/master/code/demo/PyCenterNet.png width = "600" height = "250" alt="" align=center />
+<img src=https://github.com/Duankaiwen/PyCenterNet/blob/master/code/demo/PyCenterNet.png width = "800" height = "250" alt="" align=center />
 </div>
 
 ## Abstract
