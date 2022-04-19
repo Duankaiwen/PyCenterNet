@@ -26,11 +26,11 @@ by [Kaiwen Duan](https://scholar.google.com/citations?hl=zh-CN&user=TFHRaZUAAAAJ
 | PyCenterNet    | X-101-DCN       | 50.8 |     68.6        |       55.4      |      30.7      |      53.4      |      65.3      |       38.2     |       62.7   |         66.9       |      44.9       | 71.0 |     84.6        |
 | PyCenterNet    | R2-101          | 50.2 |     67.9        |       54.7      |      30.5      |      53.4      |      63.2      |       38.1     |       62.7   |         67.0       |      44.8       | 71.6 |     84.0        |
 | PyCenterNet    | R2-101-DCN      | 51.5 |     69.2        |       56.2      |      31.0      |      54.4      |      65.7      |       38.5     |       63.1   |         67.5       |      45.6       | 71.7 |     84.6        |
-| PyCenterNet*   | R2-101-DCN      | 53.7 |     70.9        |       59.7      |      35.1      |      56.0      |      66.7      |       39.8     |       66.6   |         71.8       |      54.3       | 74.5 |     86.2        |
+| PyCenterNet(MS)| R2-101-DCN      | 53.7 |     70.9        |       59.7      |      35.1      |      56.0      |      66.7      |       39.8     |       66.6   |         71.8       |      54.3       | 74.5 |     86.2        |
 | PyCenterNet    | Swin-L          | 53.2 |     71.4        |       57.4      |      33.2      |      56.2      |      68.7      |       39.2     |       61.6   |         64.0       |      43.2       | 67.7 |     80.7        |
-| PyCenterNet*   | Swin-L          | 57.1 |     73.7        |       62.4      |      38.7      |      59.2      |      71.3      |       40.9     |       67.4   |         72.2       |      54.8       | 75.1 |     86.8        |
+| PyCenterNet(MS)| Swin-L          | 57.1 |     73.7        |       62.4      |      38.7      |      59.2      |      71.3      |       40.9     |       67.4   |         72.2       |      54.8       | 75.1 |     86.8        |
 
-* A comparison between LSNet and the sate-of-the-art methods in object detection on the MS-COCO test-dev set. LSNet surpasses all competitors in the anchor-free group. * – multi-scale testing.*
+*'MS'– multi-scale testing*
  
 ## Preparation
 The master branch works with PyTorch 1.5.0
