@@ -20,7 +20,8 @@ by [Kaiwen Duan](https://scholar.google.com/citations?hl=zh-CN&user=TFHRaZUAAAAJ
 |Method          |  Backbone       | AP  | AP<sub>50</sub>  | AP<sub>75</sub> | AP<sub>S</sub> | AP<sub>M</sub> | AP<sub>L</sub> | AR<sub>1</sub> | AR<sub>10</sub> | AR<sub>100</sub> | AR<sub>S</sub>  | AR<sub>M</sub> | AR<sub>L</sub> |
 | :------------- | :-------:       | :--:| :-------------:  | :-------------: | :------------: | :------------: | :------------: | :------------: | :------------:  | :------------:   | :------------:  | :------------: | :------------: |
 | PyCenterNet    | R-50            | 46.4 |     63.7        |       50.3      |      27.1      |      48.9      |      58.8      |       36.2     |       60.0      |     64.2       |      41.1       | 68.5 |     81.9        |
-
+| PyCenterNet    | R-101           | 47.7 |     65.1        |       51.9      |      27.8      |      50.5      |      60.6      |       37.1     |       61.1   |         65.4       |      41.6       | 70.0 |     83.4        |
+| PyCenterNet    | R-101-DCN       | 49.8 |     67.3        |        54.1     |      29.1      |      52.6      |      64.2      |       37.8     |       62.0   |         66.3       |      43.6       | 70.8 |     84.0        |
 
 
 ## Preparation
