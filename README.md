@@ -32,6 +32,16 @@ by [Kaiwen Duan](https://scholar.google.com/citations?hl=zh-CN&user=TFHRaZUAAAAJ
 | PyCenterNet(MS)| Swin-L          | 57.1 |     73.7        |       62.4      |      38.7      |      59.2      |      71.3      |       40.9     |       67.4   |         72.2       |      54.8       | 75.1 |     86.8        |
 
 *'MS'– multi-scale testing*
+|Method             |  Backbone       | FPS | AP<sub>val</sub>  | AP<sub>test</sub> |
+| :-------------    | :-------:       | :--:| :-------------:   | :-------------:   | 
+| YOLOv3            | Darknet-53      | 26  |     -             |       33.0        |  
+| FCOS-RT           | R-50            | 38  |     40.2          |       40.2        | 
+| Objects as Points | DLA-34          | 52  |     37.4          |       37.3        |  
+| CPNDet            | DLA-34          | 26.2|     41.6          |       41.8        |
+|                   |
+| CenterNet-RT      | R-50            | 30.5|     43.2          |       43.6        |
+
+## Performance of the Real-time CenterNet on COCO test-dev
  
 ## Preparation
 The master branch works with PyTorch 1.5.0
