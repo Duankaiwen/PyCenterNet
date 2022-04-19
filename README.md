@@ -45,7 +45,6 @@ by [Kaiwen Duan](https://scholar.google.com/citations?hl=zh-CN&user=TFHRaZUAAAAJ
 | CenterNet-RT      | R-50            | 30.5|     43.2          |       43.6        |
 
 
- 
 ## Preparation
 The master branch works with PyTorch 1.5.0
 
@@ -59,29 +58,23 @@ The dataset directory should be like this:
             ├── val2017
             ├── test2017
 ```
-
-Generate extreme point annotation from segmentation:
-- ```cd code/tools```
-- ```python gen_coco_lsvr.py```
-- ```cd ..```
-
 ## Installation
-
+```cd code```
 ##### 1. Installing cocoapi 
-- ```cd cocoapi/pycocotools```
+- ```cd pycocotools```
 - ```python setup.py develop```
-- ```cd ../..```
+- ```cd ..```
 
 ##### 2. Installing mmcv 
 - ```cd mmcv```
-- ```pip install -e.```
+- ```MMCV_WITH_OPS=1 pip install -e .```
 - ```cd ..```
 
 ##### 3. Installing mmdet 
 - ```python setup.py develop```
 
 ## Training and Evaluation
-Our LSNet is based on [mmdetection](https://github.com/open-mmlab/mmdetection). Please check [with existing dataset](https://github.com/open-mmlab/mmdetection/blob/master/docs/1_exist_data_model.md) for Training and Evaluation.
+Our CenterNet is based on [mmdetection](https://github.com/open-mmlab/mmdetection). Please check [with existing dataset](https://github.com/open-mmlab/mmdetection/blob/master/docs/en/1_exist_data_model.md) for Training and Evaluation.
 
 
 
