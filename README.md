@@ -1,3 +1,4 @@
+## For the Hourglass based CenterNet, please refer to [HgCenterNet](https://github.com/Duankaiwen/CenterNet)
 ### The trained models are temporarily unavailable, but you can train the code using reasonable computational resource.
 
 # [CenterNet++ for Object Detection](https://arxiv.org/abs/2204.08394)
