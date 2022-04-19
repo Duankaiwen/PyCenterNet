@@ -17,11 +17,10 @@ by [Kaiwen Duan](https://scholar.google.com/citations?hl=zh-CN&user=TFHRaZUAAAAJ
 **If you encounter any problems in using our code, please contact Kaiwen Duan: kaiwenduan@outlook.com**
 
 ## Bbox AP(%) on COCO test-dev
-|Method          |  Backbone       | AP  | AP<sub>50</sub>  | AP<sub>75</sub> | AP<sub>S</sub> | AP<sub>M</sub> | AP<sub>L</sub> | AR<sub>1</sub> | AR<sub>10</sub>                                          | AR<sub>100</sub> | AR<sub>S</sub>  | AR<sub>M</sub> | AR<sub>L</sub> |
+|Method          |  Backbone       | AP  | AP<sub>50</sub>  | AP<sub>75</sub> | AP<sub>S</sub> | AP<sub>M</sub> | AP<sub>L</sub> | AR<sub>1</sub> | AR<sub>10</sub> | AR<sub>100</sub> | AR<sub>S</sub>  | AR<sub>M</sub> | AR<sub>L</sub> |
 
 | :------------- | :-------:       | :--: | :-------------: | :-------------: | :------------: | :------------: | :------------: | 
-| PyCenterNet    | R-50            | 46.4 |     63.7        |       50.3      |      27.1      |      48.9      |      58.8      |       36.2     |       60.0       
-                                          |     64.2        |      41.1       |      68.5      |      81.9      |
+| PyCenterNet    | R-50            | 46.4 |     63.7        |       50.3      |      27.1      |      48.9      |      58.8      |       36.2     |       60.0      |     64.2       |      41.1       | 68.5 |     81.9        |
 
 
 
