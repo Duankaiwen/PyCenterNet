@@ -30,7 +30,8 @@ by [Kaiwen Duan](https://scholar.google.com/citations?hl=zh-CN&user=TFHRaZUAAAAJ
 | PyCenterNet    | Swin-L          | 53.2 |     71.4        |       57.4      |      33.2      |      56.2      |      68.7      |       39.2     |       61.6   |         64.0       |      43.2       | 67.7 |     80.7        |
 | PyCenterNet*   | Swin-L          | 57.1 |     73.7        |       62.4      |      38.7      |      59.2      |      71.3      |       40.9     |       67.4   |         72.2       |      54.8       | 75.1 |     86.8        |
 
-* * – multi-scale testing.*
+* 
+* – multi-scale testing.*
  
 ## Preparation
 The master branch works with PyTorch 1.5.0
