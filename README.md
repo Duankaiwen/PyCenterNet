@@ -61,7 +61,7 @@ The dataset directory should be like this:
 ## Installation
 ```cd code```
 ##### 1. Installing cocoapi 
-- ```cd pycocotools```
+- ```cd mmpycocotools```
 - ```python setup.py develop```
 - ```cd ..```
 
